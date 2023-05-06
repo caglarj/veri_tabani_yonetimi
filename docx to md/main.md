@@ -839,8 +839,9 @@ lisansı, bugün birçok yazılım için kullanılmaktadır. Ayrıca başka
 diğer özgür yazılım lisansları da ortaya çıkmıştır. GNU, temelde
 kullanıcıya 4 özgürlük sunar:
 >
-Özgürlük 0: Herhangi bir amaç için yazılımı sınırsız kullanma Özgürlük
-1: Yazılımın kodlarını inceleyebilme
+Özgürlük 0: Herhangi bir amaç için yazılımı sınırsız kullanma 
+
+Özgürlük 1: Yazılımın kodlarını inceleyebilme
 >
 Özgürlük 2: Yazılımı dağıtabilme
 >
