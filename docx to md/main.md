@@ -1396,17 +1396,16 @@ Yarın ölecekmiş gibi yaşa. Sonsuza kadar yaşayacakmışsınız gibi
 
 ## Birlikte Düşünelim
 
-Bilgisayar programlama sürecinin tamamı bilgisayar ortamında mı
-gerçekleştirilir?
->
+Bilgisayar programlama sürecinin tamamı bilgisayar ortamında mı gerçekleştirilir?
+
 Veri tabanı tasarımı dersi için “tasarım” kelimesi özellikle
 seçilmiştir. Tasarım kelimesini kullanınca ne hayal ediyorsunuz?
 Tasarım süreci doğası gereği hangi faaliyetleri barındırır?
->
+
 Bir veri tabanı tasarımı gerçekleştirmekle sanat eseri tasarlamak
 arasında nasıl benzerlikler bulabiliriz? Veri tabanı tasarımında
 “bilgelik” yeterli midir?
->
+
 Bir veri tabanının performansı nasıl ölçülebilir?
 
 ## Başlamadan Önce
