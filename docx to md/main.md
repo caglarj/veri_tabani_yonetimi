@@ -1,23 +1,4 @@
 
-
-# İÇİNDEKİLER
-
-1. **VERİ TABANI**
-
-2. **VERİ TABANI YÖNETİM SİSTEMLERİ**
-
-3. **SQL VE ORM**
-
-4. **TEMEL SORGULAR**
-
-5. **TABLOLARI BİRLEŞTİRME**
-
-6. **DETAYLI SORGULAMALAR**
-
-7. **SAKLI YORDAMLAR**
-
-8. **VERİ TABANI YÖNETİCİLİĞİ**
-
 # VERİ TABANI
 
 ## Birlikte Düşünelim
@@ -85,9 +66,11 @@ yöntemler geliştirilmiştir. Her ne kadar çok sayıda yöntem bulunsa da
 tabanları günümüzde hala en çok kullanılan yöntemdir. Statista'nın
 Ağustos 2022 raporuna göre en çok kullanılan 4 veri tabanı yönetim
 sistemi (Oracle, MySQL, Microsoft SQL Server, PostgreSQL) ilişkisel
-veri tabanıdır.
->
-<img src="./media/image2.jpeg"
+veri tabanıdır.!
+
+
+
+<img src="/media/image2.jpeg"
 style="width:6.1875in;height:5.67708in" />
 >
 İlişkisel veri tabanları, verinin niteliklerinin (farklı kaynaklarda
@@ -759,7 +742,7 @@ dikw hierarchy. Journal of information science, 33(2):163–180.
 Sumathi, S. & Esakkirajan, S. 2007. Fundamentals of relational
 database management systems, volume 47.
 >
-**Ünite Soruları**
+
 
 # VERİ TABANI YÖNETİM SİSTEMLERİ
 
@@ -1388,7 +1371,7 @@ Erişim: 18 Aralık 2022,
 Welcome to Snowflake Documentation. Snowflake. Erişim: 18 Aralık 2022,
 [<u>htt</u>p<u>s://docs.snowflake.com/en/Documentation</u>](https://docs.snowflake.com/en/Documentation)
 >
-**Ünite Soruları**
+
 
 # SQL VE ORM
 
