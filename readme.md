@@ -1,4 +1,4 @@
-You can chek example, docx to md folder 
+You can chek example: docx to md folder 
 ---
 
 # Pandoc
