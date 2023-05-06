@@ -1,4 +1,6 @@
 You can chek example: docx to md folder 
+
+
 ---
 
 # Pandoc
@@ -117,6 +119,10 @@ if you wanna convert to docx to markdown, you can use pandoc open-source project
                         --print-highlight-style=STYLE|FILE
   -v                    --version
   -h                    --help
+
+
+  ------------------------------------------------------------------------
+    Cmd Answer
 ```
 
 3. create to folder in the desktop : docx to md  (its my chois)
@@ -149,4 +155,57 @@ In a very short time from the moment we enter the command, Pandoc will create an
 And that's all. 
 
 You can cut and resize all the images under the image folder. When you save it, you can automatically see it in your markdown file. 
+
+---
+
+## *Türkçe :*
+
+docx'i markdown'a dönüştürmek istiyorsanız, pandoc açık kaynak projesini kullanabilirsiniz.
+
+1. pandog.org adresine gidin ---> sisteminiz için indirin. Ben Win kullanıyorum.
+
+2. Yükledikten sonra cmd'yi çalıştırın ve pandoc'unuzu test edin.
+
+```cmd
+
+pandoc -h
+
+```
+
+Not : cmd ekranına benzer şekilde görebilirsiniz. Bknz. Cmd Answer.
+
+3. Masaüstünde bir klasör oluşturun: docx'ten md'ye (benim seçimim)
+4. Dönüştürmek istediğiniz docx dosyasını klasöre koyun. (örneğin: data_book.docx)
+5. Yapmamız gereken terminali bu klasörün içinde açmaktır. (.\Desktop\docx to md>)
+
+
+
+> 6. yazma komutu :
+> 
+> \Desktop\docx to md> pandoc -t gfm --extract-media . "data_book.docx" -o main.md
+
+
+
+    Tüm adımları açıklayalım
+
+1. pandoc --> onun başlangıcı...!
+
+2. -t gfm --> Bu, Pandoc'a hangi markdown türünü kullanmak istediğimizi söyleyen komutumuzdur. "gfm" ekliyoruz çünkü Github Flavors Markdown türünü kullanmak istiyoruz. Unutmayalım ki bu bir zorunluluk değil. Pandoc.org web sayfasında birçok markdown türü bulunmaktadır.
+   
+    *Ps : Aslında Pandoc tarafından desteklenen tüm markdown çeşitlerini görebilirsiniz. 
+
+3. --extract-media --> medyayı aslında bu komutu çalıştırdığımız klasöre çıkarmak istediğimizi söyleyeceğiz. 
+
+
+4. "data_book.docx" --> Dönüştürmek istediğimiz dosyanın adını yazın.
+
+5. -o data_book.md --> çıktı dosya adı ile çıktı biçimi
+
+6. Komutu girdiğimiz andan itibaren çok kısa bir süre içinde Pandoc bir resim klasörü ve ismini belirttiğimiz .md uzantılı bir dosya oluşturacaktır. 
+
+Ve hepsi bu kadar. 
+
+
+Resim klasörü altındaki tüm resimleri kesebilir ve yeniden boyutlandırabilirsiniz. Kaydettiğinizde otomatik olarak markdown dosyanızda görebilirsiniz. 
+
 
